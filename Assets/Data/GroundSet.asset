@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a3425a1e20ed3348aaa4d590192e5ee, type: 3}
+  m_Name: GroundSet
+  m_EditorClassIdentifier: 
+  objects:
+  - {fileID: 912156155626085350, guid: 4597c78a0f2ff6f47b49b815d93004d6, type: 3}
+  - {fileID: 5673195563005983340, guid: 49eb3db0a5944ab46b179302f4a0c400, type: 3}
